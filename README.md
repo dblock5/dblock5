@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dblock5/ticket-lifecycle/tree/main)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/dblock5/configure-ad/tree/main)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dblock5/azure-network-protocols/tree/main)
+ 
 
 <h2>Connect with me:</h2>
 
