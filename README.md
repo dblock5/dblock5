@@ -10,8 +10,3 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/dblock5/configure-ad/tree/main)
  
 
-<h2>Connect with me:</h2>
-
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" 
-[linkedin]: https://linkedin.com/in/Josh
